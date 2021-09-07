@@ -1,7 +1,8 @@
 import React from 'react';
+import BarGraph from './BarGraph';
 
-function Chart(){
-  return <div>this is chart page</div>
-}
+function Chart() {
+  return <BarGraph/>
+};
 
 export default Chart
