@@ -25,4 +25,4 @@ visx는 **airbnb** 팀이 D3.js와 react를 사용해 만든 라이브러리다.
 3. 단순한 차트 라이브러리가 아니다. 자유도가 높아 나만의 케이스로 작업하고, 컨트롤 할 수 있다.
 4. react 친화적이다.
 
-참고 : [visx react를 위한 차트 라이브러리] (https://velog.io/@badbeoti/visx-react%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B0%A8%ED%8A%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
+참고 : [visx react를 위한 차트 라이브러리](https://velog.io/@badbeoti/visx-react%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B0%A8%ED%8A%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
